@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Shuvo",
+      "email": "s@gmail.com",
+      "phone": "01629105550",
+      "dob": "01-11-1999",
+      "subjects": "Bangla , physics",
+      "id": 1
+    },
+    {
+      "name": "Asad",
+      "email": "a@gmail.com",
+      "phone": "09239482442",
+      "dob": "3-11-2002",
+      "subjects": "bangla , english",
+      "id": 2
+    },
+    {
+      "name": "sumon",
+      "email": "sumon2gmail.com",
+      "phone": "0987656789",
+      "dob": "3-12-1990",
+      "subjects": "physics,bangla",
+      "id": 3
+    },
+    {
+      "name": "Md.Mahatab",
+      "email": "mahatab@gmail.com",
+      "phone": "01629105550",
+      "dob": "1-11-1994",
+      "subjects": "bangla",
+      "id": 5
+    }
+  ]
+}
